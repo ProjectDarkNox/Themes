@@ -2,10 +2,10 @@
 By Tropical
 */
 @import url(https://tropix126.github.io/BetterDiscordStuff/midnight/css/fonts.css);
-@import url(https://projectbubblez.github.io/Bubblez/css/sourcecheck/code.css);
+@import url(https://projectdarknox.github.io/Themes/sourcecheck/code.css);
 @import url(https://tropix126.github.io/BetterDiscordStuff/friendgrid/v3/css/base.css);
-@import url(https://projectbubblez.github.io/Bubblez/css/usrbg/userPopouts.css);
-/*@import url(https://projectbubblez.github.io/Bubblez/css/usert/user-tags.css);*/
+@import url(https://projectdarknox.github.io/Themes/usrbg/userPopouts.css);
+/*@import url(https://projectdarknox.github.io/Themes/usert/user-tags.css);*/
 @import url(https://tropix126.github.io/BetterDiscordStuff/midnight/css/status.css);
 @import url(https://rsms.me/inter/inter.css);
 
@@ -20,7 +20,7 @@ By Tropical
 	--hover-color: var(--hover);
 	--roundness: var(--user-roundness);
 	--theme-long-name: 'DarkNox';
-	--theme-version: '3.7.39';
+	--theme-version: '3.7.40';
 	--deprecated-store-bg: var(--lv1);
 	--background-primary: var(--lv1);
 	--background-secondary: var(--lv1);
