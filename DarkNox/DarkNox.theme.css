@@ -1,0 +1,41 @@
+/**
+ * @name DarkNox
+ * @author Tropical | Edit DarkMatter
+ * @version Auto Update
+ * @description Based on the Midnight Theme
+ * @source https://projectDarkNox.github.io/Themes/DarkNox/Base/Base.css
+*/
+/*Import Base CSS File*/
+@import url("https://projectDarkNox.github.io/Themes/DarkNox/Base/Base.css");
+@import url("https://codedotspectra.github.io/themes/mini-themes/customFont.css");
+@import url("https://fonts.googleapis.com/css?family=Fredoka+One");
+
+/*Root*/
+:root {
+/*Primary Variables*/
+--lv1: #000;
+--accent: #00cc99;
+--hover: #01dba5;
+--bg: url('https://htmlcolors.com/color-image/00cc99.png');
+--lvl-bg-opacity: 0.4;
+--lvl-bg-fade: 76%;
+--font: 'Fredoka One';
+--letter-spacing: .02rem;
+font-size:14px !important;
+
+/*Status Variables*/
+--online:#43b581;
+--idle:#faa61a;
+--dnd:#f04747;
+--offline:#636b75;
+--invisible:#747f8d;
+--streaming:#643da7;
+
+/*Roundness Variables*/
+--user-roundness:0px;
+--guilds-roundness:0px;
+  
+/*SourceCheck*/
+--sourcecheck-unsafe-embed-bg-dark:var(--lv1);
+--sourcecheck-unsafe-shadow-tint-dark:var(--lv1);
+}
