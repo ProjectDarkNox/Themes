@@ -14,7 +14,7 @@
 /*Root*/
 :root {
 /*Primary Variables*/
---lv1: #000;
+--lv1: #00000f;
 --accent: #7400cc;
 --hover: #7c00db;
 --bg: url('https://htmlcolors.com/color-image/7400cc.png');
