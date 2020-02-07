@@ -15,9 +15,9 @@
 :root {
 /*Primary Variables*/
 --lv1: #000;
---accent: #00cc99;
---hover: #01dba5;
---bg: url('https://htmlcolors.com/color-image/00cc99.png');
+--accent: #7400cc;
+--hover: #7c00db;
+--bg: url('https://htmlcolors.com/color-image/7400cc.png');
 --lvl-bg-opacity: 0.4;
 --lvl-bg-fade: 76%;
 --font: 'Fredoka One';
