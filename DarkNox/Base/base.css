@@ -20,7 +20,7 @@ By Tropical
 	--hover-color: var(--hover);
 	--roundness: var(--user-roundness);
 	--theme-long-name: 'DarkNox';
-	--theme-version: '3.7.40';
+	--theme-version: '3.7.41';
 	--deprecated-store-bg: var(--lv1);
 	--background-primary: var(--lv1);
 	--background-secondary: var(--lv1);
@@ -3931,7 +3931,7 @@ img[src*="/assets/9e8f566e6d49e8f4bba138e1d6a50578.svg"] {
 }
 
 .userPopout-3XzG_A .avatarWrapper-3H_478[user_by_bdfdb*="203797203590971403"] + .headerText-2sdzFM .headerTag-2pZJzA:after {
-  content:'LAD';
+  content:'TESTER';
   position:absolute;
   right:10px;
   color:#4B0951;
