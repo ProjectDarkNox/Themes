@@ -1,7 +1,7 @@
 /**
  * @name DarkNox
  * @author Tropical | Edit DarkMatter
- * @version Auto Update
+ * @version 3
  * @description Based on the Midnight Theme
  * @source https://raw.githubusercontent.com/ProjectDarkNox/Themes/master/DarkNox/DarkNox.theme.css
  * @website https://projectdarknox.github.io/Themes/DarkNox/
@@ -33,8 +33,8 @@ font-size:14px !important;
 --streaming:#643da7;
 
 /*Roundness Variables*/
---user-roundness:0px;
---guilds-roundness:0px;
+--user-roundness:100%;
+--guilds-roundness:100%;
   
 /*SourceCheck*/
 --sourcecheck-unsafe-embed-bg-dark:var(--lv1);
