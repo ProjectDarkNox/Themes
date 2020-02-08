@@ -20,7 +20,7 @@ By Tropical
 	--hover-color: var(--hover);
 	--roundness: var(--user-roundness);
 	--theme-long-name: 'DarkNox';
-	--theme-version: '3.7.43';
+	--theme-version: '3.7.44';
 	--deprecated-store-bg: var(--lv1);
 	--background-primary: var(--lv1);
 	--background-secondary: var(--lv1);
@@ -911,7 +911,7 @@ a:hover .foreground-26ym5y {
 #app-mount .channel-2QD9_O[href="/store"] {
 	display: inline-block;
 	transition: 150ms ease all;
-	margin-left: 8px;
+	margin-left: 22px;
 	margin-top: 0;
 	padding: initial;
 	width: calc(25% - 10px);
