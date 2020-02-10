@@ -20,7 +20,7 @@ By Tropical
 	--hover-color: var(--hover);
 	--roundness: var(--user-roundness);
 	--theme-long-name: 'DarkNox';
-	--theme-version: '3.7.46';
+	--theme-version: '3.7.47';
 	--deprecated-store-bg: var(--lv1);
 	--background-primary: var(--lv1);
 	--background-secondary: var(--lv1);
@@ -9250,7 +9250,7 @@ box-shadow: 0 6px 10px -8px var(--accent);
 .additionalActionsIcon-1FoUlE {
 	position: absolute;
 	top: 10px;
-	border: 2px solid;
+	border: 1px solid;
 	padding: 2px;
 	border-radius: 2px;
 	right: 10px;
