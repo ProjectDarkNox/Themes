@@ -31,6 +31,33 @@ body, html {
 
 .w3-wide {letter-spacing: 10px;}
 .w3-hover-opacity {cursor: pointer;}
+  
+#preview {
+  background-color: #00000f;
+  width: 100%;
+  height: 100%;
+  box-shadow:0 0 75px 2px #00000f;
+  animation:main-bottom 1s ease;
+  border:none;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  z-index:1;
+}
+
+body #center.preview-container {
+  margin-top:50px;
+  height:55vw;
+  align-items:center;
+  z-index:1;
+}
+  
+#center {
+  display:flex;
+  justify-content:center;
+  height:fit-content;
+  position:relative;
+}
 </style>
 <body>
 
@@ -62,7 +89,7 @@ body, html {
 <!-- Container (About Section) -->
 <div class="w3-content w3-container w3-padding-64">
   <center>
-  <div>
+  <div id="center" class="preview-container">
   <iframe id="preview" class="rellax" src="https://gibbu.github.io/ThemePreview/?file=https://projectdarknox.github.io/Themes/DarkNox/DarkNox.theme.css" data-rellax-speed="9"></iFrame>
   </div>
   </center>
