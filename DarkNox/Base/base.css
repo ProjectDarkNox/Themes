@@ -20,7 +20,7 @@ By Tropical
 	--hover-color: var(--hover);
 	--roundness: var(--user-roundness);
 	--theme-long-name: 'DarkNox';
-	--theme-version: '3.7.49';
+	--theme-version: '3.7.50';
 	--deprecated-store-bg: var(--lv1);
 	--background-primary: var(--lv1);
 	--background-secondary: var(--lv1);
@@ -4850,8 +4850,8 @@ img[src*="/assets/9e8f566e6d49e8f4bba138e1d6a50578.svg"] {
 	width: 45px;
 	top: -4px;
 	cursor: default;
-  color: #fff;
-  z-index:3003;
+  	color: #fff;
+  	z-index:3003;
 }
 
 .winButtonClose-1HsbF-:hover {
