@@ -20,7 +20,7 @@ By Tropical
 	--hover-color: var(--hover);
 	--roundness: var(--user-roundness);
 	--theme-long-name: 'DarkNox';
-	--theme-version: '3.7.50';
+	--theme-version: '3.7.51';
 	--deprecated-store-bg: var(--lv1);
 	--background-primary: var(--lv1);
 	--background-secondary: var(--lv1);
@@ -3873,10 +3873,10 @@ img[src*="/assets/9e8f566e6d49e8f4bba138e1d6a50578.svg"] {
 }
 
 .userPopout-3XzG_A .avatarWrapper-3H_478[user_by_bdfdb*="253976488985100298"] + .headerText-2sdzFM .headerTag-2pZJzA:after {
-  content:'LITERALLY HITLER';
+  content:'BODY PILLOW #1';
   position:absolute;
   right:10px;
-  color:#cc0000;
+  color:#f2006d;
   font-size: .8em;
   font-weight: 500;
   height: 1.28em;
@@ -10224,6 +10224,29 @@ html body #app-mount .container-1YxwTf .markup-2BOw-j>.anchor-3Z-8Bb[href*="drix
   border:2px solid #4B0951;
 	border-radius:1px;
   background:rgba(75, 9, 81, 0.5);
+  text-shadow:none;
+  color:rgba(255,255,255,0.95);
+  position:absolute;
+  right:0px;
+  margin:0 6px;
+  top:50%;
+  transform:translateY(-50%);
+	cursor:default;
+}
+
+.avatar-1BDn8e[src*="253976488985100298"] + span + .timestampCozy-1HNQR2::before {
+  content: 'Body Pillow #1';
+  text-transform:uppercase;
+  font-size: 10px !important;
+  font-weight: 500;
+  padding: 2px 4px;
+  line-height: normal;
+  display: inline-block;
+  text-align:center;
+  white-space:nowrap;
+  border:2px solid #f2006d;
+	border-radius:1px;
+  background:rgba(242, 0, 109, 0.5);
   text-shadow:none;
   color:rgba(255,255,255,0.95);
   position:absolute;
