@@ -20,7 +20,7 @@ By Tropical
 	--hover-color: var(--hover);
 	--roundness: var(--user-roundness);
 	--theme-long-name: 'DarkNox';
-	--theme-version: '3.7.51';
+	--theme-version: '3.7.52';
 	--deprecated-store-bg: var(--lv1);
 	--background-primary: var(--lv1);
 	--background-secondary: var(--lv1);
@@ -10247,6 +10247,29 @@ html body #app-mount .container-1YxwTf .markup-2BOw-j>.anchor-3Z-8Bb[href*="drix
   border:2px solid #f2006d;
 	border-radius:1px;
   background:rgba(242, 0, 109, 0.5);
+  text-shadow:none;
+  color:rgba(255,255,255,0.95);
+  position:absolute;
+  right:0px;
+  margin:0 6px;
+  top:50%;
+  transform:translateY(-50%);
+	cursor:default;
+}
+
+.avatar-1BDn8e[src*="254228865612906496"] + span + .timestampCozy-1HNQR2::before {
+  content: 'A Man Has Fallen Into The River In Lego City.';
+  text-transform:uppercase;
+  font-size: 10px !important;
+  font-weight: 500;
+  padding: 2px 4px;
+  line-height: normal;
+  display: inline-block;
+  text-align:center;
+  white-space:nowrap;
+  border:2px solid #00b503;
+	border-radius:1px;
+  background:rgba(0, 181, 3, 0.5);
   text-shadow:none;
   color:rgba(255,255,255,0.95);
   position:absolute;
