@@ -20,7 +20,7 @@ By Tropical
 	--hover-color: var(--hover);
 	--roundness: var(--user-roundness);
 	--theme-long-name: 'DarkNox';
-	--theme-version: '2.8.53';
+	--theme-version: '2.8.54';
 	--deprecated-store-bg: var(--lv1);
 	--background-primary: var(--lv1);
 	--background-secondary: var(--lv1);
@@ -5958,16 +5958,16 @@ body #ace_settingsmenu {
 	padding-top: 10px
 }
 
-li[data-name*=Midnight] .bda-name {
+li[data-name*=DarkNox] .bda-name {
 	color: var(--accent);
 	text-shadow: 0 0 12px
 }
 
-li[data-name*=Midnight] .bda-version {
+li[data-name*=DarkNox] .bda-version {
     font-size:0;
 }
 
-li[data-name*=Midnight] .bda-version:after {
+li[data-name*=DarkNox] .bda-version:after {
     content:var(--theme-version);
     font-size:var(--size3);
 }
@@ -8835,7 +8835,7 @@ svg[name="RichActivity"] {
 }
 
 .bd-minimal::after {
-	content: 'Midnight does not support minimal mode. Disable it in Settings > BandagedBD > Core > Minimal Mode';
+	content: 'DarkNox does not support minimal mode. Disable it in Settings > BandagedBD > Core > Minimal Mode';
 	position: fixed;
 	z-index: 999999;
 	color: #fff;
@@ -8854,7 +8854,7 @@ svg[name="RichActivity"] {
 }
 
 html.theme-light::after {
-	content: 'Midnight does not support light mode. Disable in Settings > Appearance > Dark Mode';
+	content: 'DarkNox does not support light mode. Disable in Settings > Appearance > Dark Mode';
 	position: fixed;
 	font-family: var(--font);
 	z-index: 999999;
