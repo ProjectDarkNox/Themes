@@ -1,15 +1,16 @@
 /**
  * @name DarkNox
- * @author Tropical | Edit DarkMatter
- * @version 3
- * @description Based on the Midnight Theme
+ * @author Tropical#8908 | Edit DarkMatter#0712
+ * @version 2
+ * @description Based on the Midnight Theme.
+ * @invite qNVAaWq
  * @source https://raw.githubusercontent.com/ProjectDarkNox/Themes/master/DarkNox/DarkNox.theme.css
  * @website https://projectdarknox.github.io/Themes/DarkNox/
 */
 /*Import Base CSS File*/
 @import url("https://projectDarkNox.github.io/Themes/DarkNox/Base/base.css");
 @import url("https://codedotspectra.github.io/themes/mini-themes/customFont.css");
-@import url("https://fonts.googleapis.com/css?family=Fredoka+One");
+@import url("https://fonts.googleapis.com/css?family=Merriweather+Sans&display=swap");
 
 /*Root*/
 :root {
@@ -20,7 +21,7 @@
 --bg: url('https://htmlcolors.com/color-image/7400cc.png');
 --lvl-bg-opacity: 0.4;
 --lvl-bg-fade: 76%;
---font: 'Fredoka One';
+--font: 'Merriweather Sans';
 --letter-spacing: .02rem;
 font-size:14px !important;
 
@@ -33,8 +34,8 @@ font-size:14px !important;
 --streaming:#643da7;
 
 /*Roundness Variables*/
---user-roundness:100%;
---guilds-roundness:100%;
+--user-roundness:0px;
+--guilds-roundness:0px;
   
 /*SourceCheck*/
 --sourcecheck-unsafe-embed-bg-dark:var(--lv1);
