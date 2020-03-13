@@ -1,14 +1,15 @@
 /**
  * @name DarkNox
- * @author Tropical#8908 | Edit DarkMatter#0712
- * @version 2
+ * @author DarkMatter#0712
+ * @version 3
  * @description Based on the Midnight Theme.
  * @invite qNVAaWq
+ * @authorId 200612445373464576
  * @source https://raw.githubusercontent.com/ProjectDarkNox/Themes/master/DarkNox/DarkNox.theme.css
  * @website https://projectdarknox.github.io/Themes/DarkNox/
 */
 /*Import Base CSS File*/
-@import url("https://projectDarkNox.github.io/Themes/DarkNox/Base/base.css");
+@import url("https://projectDarkNox.github.io/Themes/DarkNox/Base/v3/base.css");
 @import url("https://codedotspectra.github.io/themes/mini-themes/customFont.css");
 @import url("https://fonts.googleapis.com/css?family=Merriweather+Sans&display=swap");
 
@@ -19,8 +20,8 @@
 --accent: #7400cc;
 --hover: #7c00db;
 --bg: url('https://htmlcolors.com/color-image/7400cc.png');
---lvl-bg-opacity: 0.4;
---lvl-bg-fade: 76%;
+--bg-opacity: 0.4;
+--bg-fade: 76%;
 --font: 'Merriweather Sans';
 --letter-spacing: .02rem;
 font-size:14px !important;
