@@ -185,7 +185,7 @@ TABLE OF CONTENTS
 
 	/*Branding*/
 	--theme-name: 'DarkNox';
-	--theme-version: '3.8.56';
+	--theme-version: '3.8.57';
 	--theme-alert-display: block;
 
 	/*Discord Vars*/
@@ -5019,7 +5019,7 @@ path[d="M14 8.00598C14 10.211 12.206 12.006 10 12.006C7.795 12.006 6 10.211 6 8.
 }
 
 .userPopout-3XzG_A .avatarWrapper-3H_478[user_by_bdfdb*="253976488985100298"] + .headerText-2sdzFM .headerTag-2pZJzA:after {
-  content:'BODY PILLOW #1';
+  content:'BODY PILLOW #2';
   position:absolute;
   right:10px;
   color:#f2006d;
