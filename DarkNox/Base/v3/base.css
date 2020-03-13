@@ -3,7 +3,7 @@
 @import url(https://projectdarknox.github.io/Themes/usrbg/userPopouts.css);
 @import url(https://rsms.me/inter/inter.css);
 @import url(https://fonts.googleapis.com/icon?family=Material+Icons);
-@import url(https://projectdarknox.github.io/Themes/usert/user-tags.css);
+/*@import url(https://projectdarknox.github.io/Themes/usert/user-tags.css);*/
 @import url(https://tropix126.github.io/BetterDiscordStuff/midnight/css/fonts.css);
 /*@import url(https://tropix126.github.io/BetterDiscordStuff/midnight/css/status.css);*/
 
@@ -185,7 +185,7 @@ TABLE OF CONTENTS
 
 	/*Branding*/
 	--theme-name: 'DarkNox';
-	--theme-version: '3.8.55';
+	--theme-version: '3.8.56';
 	--theme-alert-display: block;
 
 	/*Discord Vars*/
@@ -8974,7 +8974,7 @@ body .bd-toasts {
 }
 
 .info-1VyQPT .colorMuted-HdFt4q:last-child:after {
-	content:var(--theme-name) ' v' var(--theme-version) ' by Tropical';
+	content:var(--theme-name) ' v' var(--theme-version) ' by DarkMatter';
 	text-transform:none;
 	display:block;
 }
